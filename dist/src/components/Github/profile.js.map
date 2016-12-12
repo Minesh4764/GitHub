@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/components/Github/Profile.js"],"names":["App","Component"],"mappings":";;;;;;;;;;IAGMA,G;;;;;;;;;;;iCAEG,CAGR;;;;EALiBC,S","file":"Profile.js","sourcesContent":["\n\n\nclass App extends Component{\n\nrender() {\n\n    \n}\n\n\n\n}"]}
